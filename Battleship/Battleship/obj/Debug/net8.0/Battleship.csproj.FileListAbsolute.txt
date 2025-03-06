@@ -1,0 +1,14 @@
+C:\Users\super\source\repos\Battleship\Battleship\bin\Debug\net8.0\Battleship.exe
+C:\Users\super\source\repos\Battleship\Battleship\bin\Debug\net8.0\Battleship.deps.json
+C:\Users\super\source\repos\Battleship\Battleship\bin\Debug\net8.0\Battleship.runtimeconfig.json
+C:\Users\super\source\repos\Battleship\Battleship\bin\Debug\net8.0\Battleship.dll
+C:\Users\super\source\repos\Battleship\Battleship\bin\Debug\net8.0\Battleship.pdb
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.AssemblyInfo.cs
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.dll
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\refint\Battleship.dll
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.pdb
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\Battleship.genruntimeconfig.cache
+C:\Users\super\source\repos\Battleship\Battleship\obj\Debug\net8.0\ref\Battleship.dll
